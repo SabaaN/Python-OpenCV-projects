@@ -4,7 +4,7 @@ The following project have 3 mini virtual programs created on python and openCV.
 
 
 
-Virtual Mouse: It allows user to control the movement of cursor with the movement of your index finger and index and middle finger for clicking.
+Virtual Mouse: It allows user to control the movement of cursor with the movement of ones' index finger and index and middle finger for clicking.
 
 
 
