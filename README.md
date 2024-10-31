@@ -1,4 +1,4 @@
-# Python OpenCV Mini Projects
+# Python OpenCV Projects
 
 The following project have 3 mini virtual programs created on python and openCV.
 
